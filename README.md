@@ -10,3 +10,8 @@ Module one is focusing on the fundamntals of designing a database, such that the
 
 We are follwiong Crow's Foot convention , below image describes the Crow's Foot Convetion for building ERDs: 
 ![image](https://github.com/laithrasheed/DTSA5733_Relational_Database_Design/assets/124019127/77cae44a-da48-42d2-a3fd-9929f50dabca)
+
+
+## Final Project
+
+#### Please refer to the documents that are describing my case study, such that I Designed a virtual Relational Database for the Amman Bus Rapid Transit project.
